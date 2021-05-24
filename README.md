@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello there! I'm Josh 👋
 
-<!--
-**jawshoeadan/jawshoeadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Badge](https://img.shields.io/badge/-@jawshoeadan-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=jawshoeadan "Follow on Twitter")
+```swift
 
-Here are some ideas to get you started:
+struct jawshoeadan
+{
+  let username = "jawshoeadan"
+  let pronouns = "He/Him"
+  let age = 16
+  let favoriteLanguages = ["Swift", "Flutter", "Java"]
+  let status = "Waiting for Xcode to load"
+  let listeningTo = "Bang! by AJR"
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height=180em src="https://github-readme-stats.vercel.app/api?username=jawshoeadan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawshoeadan&layout=compact&theme=tokyonight" />
+</a>
+
