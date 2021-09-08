@@ -7,7 +7,7 @@ struct jawshoeadan
 {
   let username = "jawshoeadan"
   let pronouns = "He/Him"
-  let age = 16
+  let age = 17
   let favoriteLanguages = ["Swift", "Flutter", "Java"]
   let status = "Waiting for Xcode to load"
   let listeningTo = "Bang! by AJR"
