@@ -1,13 +1,12 @@
 # Hello there! I'm Josh 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-@jawshoeadan-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=jawshoeadan "Follow on Twitter")
 ```swift
 
 struct jawshoeadan
 {
   let username = "jawshoeadan"
   let pronouns = "He/Him"
-  let age = 18
+  let age = 19
   let favoriteLanguages = ["Swift", "Flutter", "Java"]
   let status = "Waiting for Xcode to load"
   let listeningTo = "Bang! by AJR"
