@@ -4,10 +4,10 @@
 
 struct joshrad-dev
 {
-  let username = "jawshoeadan"
+  let username = "joshrad-dev"
   let pronouns = "He/Him"
   let age = 20
-  let favoriteLanguages = ["Swift", "Flutter", "Java"]
+  let favoriteLanguages = ["Python", "Typescript", "Java"]
   let status = "Waiting for Xcode to load"
   let listeningTo = "Bang! by AJR"
 }
